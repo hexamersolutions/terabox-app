@@ -128,13 +128,13 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-slate-600  ">
-              <Link href="https://github.com/r0ld3x/terabox-app">Github</Link>
+              <Link href="https://github.com/SonzaiEkkusu">Github</Link>
             </Button>
           </li>
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600  ">
-              <Link href="https://t.me/RoldexVerse">Telegram</Link>
+              <Link href="https://t.me/November2k">Telegram</Link>
             </Button>
           </li>
         </ul>
